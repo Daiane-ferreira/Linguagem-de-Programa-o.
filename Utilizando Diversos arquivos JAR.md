@@ -207,7 +207,12 @@ Para demonstração, mostraremos um exemplo simples utilizando JQuery.
 <script type="text/javascript"
 language="javascript" src="jquery-1.2.6.js"></script>
 
-<script type="text/javascript">
+
+ 
+ 
+ 
+ 
+ 
  
  
 ***BIBLIOTECA JAR**
