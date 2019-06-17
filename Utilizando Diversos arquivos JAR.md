@@ -174,9 +174,6 @@ Agora uma ilustração com os valores para fixar o conceito:
 ​          Agora vamos deixar de “Blábláblá”, e vamos ao que interessa, a seguir implementaremos o exemplo do fatorial no JAVA.
 
 Crie uma classe como a seguir:
-
-![1560735990240](C:\Users\Daiane F\AppData\Roaming\Typora\typora-user-images\1560735990240.png)
-
 ![http://www.linhadecodigo.com.br/artigos/img_artigos/Ricardo_Alves/Java_Recursividade/image003.jpg](file:///C:\Users\DAIANE~1\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png)
 
 ​          Essa é a função recursiva do fatorial em JAVA
