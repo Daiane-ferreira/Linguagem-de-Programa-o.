@@ -208,6 +208,8 @@ Para demonstração, mostraremos um exemplo simples utilizando JQuery.
 language="javascript" src="jquery-1.2.6.js"></script>
 
 <script type="text/javascript">
+ 
+ 
 ***BIBLIOTECA JAR**
 
 JAR (Java ARchive) é um arquivo compactado no formato ZIP que contém um conjunto de **classes**(arquivos “.class”) e **arquivos de configuração**. O formato JAR é utilizado para permitir a distribuição de bibliotecas ou, até mesmo, sistemas inteiros em Java (uma vez que é possível montar arquivos JAR formados por centenas de classes).
@@ -222,20 +224,6 @@ O exemplo apresentado na seção anterior envolveu o uso de apenas um arquivo JA
 
 `C:\TESTE>java
 -cp .;lib1.jar;lib2.jar;lib3.jar MinhaClasse`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **Referencias**
 
